@@ -1,11 +1,12 @@
 import React from 'react'
+import iconname from '../assets/HK.svg'
 
 export default function Main() {
   return (
     <div>
       <section className="min-h-full w-full bg-blue-500 font-2p text-white flex flex-col justify-center items-end overflow-hidden fixed ">
 
-        <h1 className="logo text-2xl md:text-3xl absolute left-6 md:left-10 top-5 md:top-10 font-monument font-bold tracking-wider select-none">HK</h1>
+        <img src="" alt="" />
 
             <h1 className='text-2xl px-4 md:px-0 md:text-4xl md:w-3/4 md:leading-normal font-bold tracking-tight absolute top-1/3 left-1/2 -translate-x-1/2 text-center z-50 w-full leading-loose'>This Website is Under Development :) 
             <br /><a href="https://www.twitter.com/Haris_ETH"><span className="text-lg md:text-xl animate-pulse">by Haris</span></a>
