@@ -1,0 +1,7 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+*, html{
+    cursor: url('http://www.videogamesprites.net/SuperMarioBros1/Items/Mushroom%20Cursor.gif'), auto;
+}
