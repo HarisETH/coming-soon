@@ -77,14 +77,3 @@
   from{left: -200px;}
   to{left: 100%;}
 }
-@media screen and (min-width:420px) {
-  .ground{
-    bottom: 0 !important;
-  }
-  .mario{
-    bottom: 62px !important;
-  }
-  .bush{
-    bottom: 64px !important;
-  }
-}
