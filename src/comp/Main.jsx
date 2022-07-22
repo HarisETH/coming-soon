@@ -6,7 +6,7 @@ export default function Main() {
     <div>
       <section className="min-h-full w-full bg-blue-500 font-2p text-white flex flex-col justify-center items-end overflow-hidden fixed ">
 
-        <img src="https://raw.githubusercontent.com/HarisETH/coming-soon/55bdc50ffc7ba57d7e753c999feab3acc2b97d85/src/assets/HK.svg" alt="" className='absolute top-8 left-5 w-12 select-none md:top-10 md:left-10 md:w-16' />
+        <img src="https://raw.githubusercontent.com/HarisETH/coming-soon/55bdc50ffc7ba57d7e753c999feab3acc2b97d85/src/assets/HK.svg" alt="HK Logo" className='absolute top-8 left-5 w-12 select-none md:top-10 md:left-10 md:w-16' />
 
             <h1 className='text-2xl px-4 md:px-0 md:text-4xl md:w-3/4 md:leading-normal font-bold tracking-tight absolute top-1/3 left-1/2 -translate-x-1/2 text-center z-50 w-full leading-loose'>This Website is Under Development :) 
             <br /><a href="https://www.twitter.com/Haris_ETH"><span className="text-lg md:text-xl animate-pulse">by Haris</span></a>
